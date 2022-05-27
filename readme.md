@@ -1,4 +1,10 @@
-# Three.js - Template - Simple
+# Character Controller Demo
+
+This is demo site which is built using threeJs library which implements 
+basic character controller.
+
+### Checkout Site at : [demo site](https://char-cont-demo.netlify.app/)
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,3 +20,8 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
